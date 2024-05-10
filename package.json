@@ -1,0 +1,20 @@
+{
+  "name": "auto-text-animation",
+  "version": "1.0.0",
+  "description": "aute text animation effect package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabby-shek/auto-text-animation-package.git"
+  },
+  "keywords": ["animation", "text", "effect", "typewriter"],
+  "author": "MD Rabby Shek Suvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabby-shek/auto-text-animation-package/issues"
+  },
+  "homepage": "https://github.com/rabby-shek/auto-text-animation-package#readme"
+}
